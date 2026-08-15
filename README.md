@@ -1,4 +1,4 @@
-# Task 1: Rule-Based Chatbot
+#  Rule-Based Chatbot
 
 A simple chatbot that responds to user input using predefined rules and keyword matching.
 
@@ -64,4 +64,4 @@ Chatbot: Goodbye! Have a great day!
 - String pattern matching
 
 
-github repo : https://github.com/iittjjee2024/CHATBOT.git
+
