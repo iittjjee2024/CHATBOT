@@ -64,10 +64,4 @@ Chatbot: Goodbye! Have a great day!
 - String pattern matching
 
 
-echo "# CHATBOT" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/iittjjee2024/CHATBOT.git
-git push -u origin main
+github repo : https://github.com/iittjjee2024/CHATBOT.git
